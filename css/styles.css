@@ -200,3 +200,18 @@ footer {
     Font-Weight: bold;
 
 }
+
+#pdf{
+
+    margin-top:12px;
+
+    background:#198754;
+
+}
+
+
+#pdf:hover{
+
+    background:#146c43;
+
+}
